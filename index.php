@@ -47,6 +47,10 @@
    </a>
 </div>
 
+<div id="blog">
+   <a href="https://www.kaper.com/software/pacpong-the-game/" target="_blank" onclick="stats('go-to-kaper-blog'); return true;">Credits/Making-of @ kaper.com</a>
+</div>
+
 <script>
    <?php echo file_get_contents("game.js"); ?>
 </script>
